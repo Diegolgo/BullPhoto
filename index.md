@@ -5,16 +5,7 @@ Un trabajo desarrollado a lo largo de varios años como aficionado a la fotograf
 
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
@@ -24,10 +15,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![//live.staticflickr.com/1911/44828245544_4e1198ad2a_k.jpg](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
 
 ### Jekyll Themes
 
