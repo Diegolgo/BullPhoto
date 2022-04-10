@@ -1,8 +1,9 @@
-## Diego Moises Llano Moraga
+## BullPhoto
 
-You can use the [editor on GitHub](https://github.com/Diegolgo/BullPhoto.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+En esta pagina encontraras algunas muestras del trabajo colaborativo en fotografía, sesiones de particulares, agrupaciones sociales, con y sin fines de lucro.
+Un trabajo desarrollado a lo largo de varios años como aficionado a la fotografía por lo cual nuestras sesiones son abordables para todos los bolsillos, y muy acorde a lo que se solicite.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
