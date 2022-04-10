@@ -15,7 +15,7 @@ Un trabajo desarrollado a lo largo de varios años como aficionado a la fotograf
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![//live.staticflickr.com/1911/44828245544_4e1198ad2a_k.jpg](src)
+[Link](url) and ![imagen tamara](http://live.staticflickr.com/1911/44828245544_4e1198ad2a_k.jpg)
 ```
 
 
